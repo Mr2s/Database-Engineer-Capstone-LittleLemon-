@@ -5,8 +5,6 @@ Capstone Project
 
 &nbsp;
 
-author: lukostudy  
-April, 2023
 
 &nbsp;
 
